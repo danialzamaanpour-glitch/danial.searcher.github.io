@@ -1,0 +1,36 @@
+body {
+
+    background-color: white;
+}
+
+h1{
+
+    color: purple;
+}
+
+#searchBox{
+    
+    padding: 5px;
+}
+
+button{
+    
+    padding: 5px;
+
+    height: 40px;
+
+    border-radius: 50px;
+
+    border: 1px solid gray;
+
+}input{
+
+    width:  580px;
+
+    border: 1px solid gray;
+
+    height: 40px;
+
+    border-radius: 50px;
+
+}
